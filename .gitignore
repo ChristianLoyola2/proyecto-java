@@ -3,4 +3,6 @@ target/
 .project
 .settings/
 .vscode/
+.env
+.idea/  
 *.class
